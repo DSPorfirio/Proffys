@@ -3,7 +3,7 @@
 #### :computer: Frontend:
 O projeto foi fruto da 2º NextLevelWeek, evento 100% gratuito organizado pela :rocket: [Rocketseat](https://github.com/Rocketseat), onde desenvolvemos a plataforma Proffys, para o encontro de alunos e instrutores. O Frontend foi feito utilizando Html e CSS.
 <p align="center">
-  <img src="headme_images/img2.jpg" width="70%">
+  <img src="headme_images/img2.jpg" width="60%">
 </p>
 
 * :heavy_check_mark: É possível realizar um cadastro de aulas.
@@ -13,7 +13,7 @@ O projeto foi fruto da 2º NextLevelWeek, evento 100% gratuito organizado pela :
 O Backend foi feito utilizando Nodejs
 
 <p align="center">
-  <img src="headme_images/img1.jpg" width="70%">
+  <img src="headme_images/img1.jpg" width="60%">
 </p>
 
 
